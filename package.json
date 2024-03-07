@@ -1,0 +1,39 @@
+{
+  "name": "onedionys-promise-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Promise Utilities) - A set of utility functions for working with Promise such as all, race, and resolve.",
+  "main": "src/promise-utils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-promise-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "promise-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-promise-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-promise-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-ajax-wrapper": "^1.0.0",
+    "onedionys-date-languange": "^2.0.0",
+    "onedionys-event-emitter": "^1.0.0",
+    "onedionys-number-languange": "^2.0.0",
+    "onedionys-shop-builder": "^2.0.0"
+  }
+}
