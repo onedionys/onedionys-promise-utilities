@@ -1,6 +1,6 @@
 {
   "name": "onedionys-promise-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Promise Utilities) - A set of utility functions for working with Promise such as all, race, and resolve.",
   "main": "src/promise-utils.js",
   "directories": {
